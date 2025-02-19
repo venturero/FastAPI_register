@@ -1,0 +1,336 @@
+2025-02-19 00:58:43,658 - INFO - Successfully connected to MongoDB
+2025-02-19 00:59:09,676 - INFO - Successfully connected to MongoDB
+2025-02-19 00:59:09,732 - INFO - Starting uvicorn server...
+2025-02-19 00:59:11,485 - INFO - Serving registration form
+2025-02-19 01:34:52,704 - INFO - Successfully connected to MongoDB
+2025-02-19 01:34:52,760 - INFO - Starting uvicorn server...
+2025-02-19 01:34:54,519 - INFO - Serving registration form
+2025-02-19 01:35:04,607 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 01:35:06,296 - INFO - User registered successfully with email: ahmet@gmail.com
+2025-02-19 01:35:06,304 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 01:35:07,059 - INFO - User registered successfully with email: ahmet@gmail.com
+2025-02-19 01:35:12,625 - INFO - Serving registration form
+2025-02-19 01:35:23,158 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 01:35:23,555 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 01:35:23,555 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 01:59:31,764 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 01:59:32,279 - INFO - Successfully connected to MongoDB
+2025-02-19 01:59:32,335 - INFO - Starting uvicorn server...
+2025-02-19 01:59:34,089 - INFO - Serving registration form
+2025-02-19 01:59:39,112 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-19 01:59:40,153 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-19 01:59:42,197 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-19 01:59:46,268 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-19 01:59:54,343 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-19 02:00:10,447 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-19 02:00:56,090 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 02:00:57,547 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-19 02:00:57,588 - INFO - User registered successfully with email: ahmet@gmail.com
+2025-02-19 02:00:58,627 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-19 02:01:00,728 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-19 02:01:04,821 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-19 02:01:12,923 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-19 02:01:28,999 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-19 02:02:01,086 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-19 02:02:02,164 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-19 02:02:04,270 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-19 02:02:08,358 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-19 02:02:16,423 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-19 02:02:32,513 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-19 02:03:04,572 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-19 02:03:05,642 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-19 02:03:07,696 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-19 02:03:11,744 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-19 02:03:19,801 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-19 02:03:35,852 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-19 02:31:48,032 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 02:31:48,701 - INFO - Successfully connected to MongoDB
+2025-02-19 02:31:48,756 - INFO - Starting uvicorn server...
+2025-02-19 02:31:50,489 - INFO - Serving registration form
+2025-02-19 02:31:57,833 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 02:31:59,309 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 02:31:59,317 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 02:32:14,963 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 02:32:15,577 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 02:32:15,581 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 02:32:15,591 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 02:32:16,298 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 02:32:16,303 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 02:32:16,308 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 02:32:16,869 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 02:32:16,872 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 02:32:16,877 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 02:32:17,439 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 02:32:17,439 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 02:32:17,443 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 02:32:17,999 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 02:32:18,000 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 02:32:18,003 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 02:32:18,521 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 02:32:18,522 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 02:32:18,526 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 02:32:18,947 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 02:32:18,947 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 02:32:28,498 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 02:32:29,218 - INFO - User registered successfully with email: ahmet@gmail.com
+2025-02-18 23:51:24,172 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-18 23:51:24,482 - INFO - Successfully connected to MongoDB
+2025-02-18 23:51:29,181 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-18 23:51:30,185 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-18 23:51:32,191 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-18 23:51:36,200 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-18 23:51:44,212 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-18 23:52:00,227 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-18 23:54:05,269 - INFO - Serving registration form
+2025-02-18 23:54:07,259 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-18 23:54:08,266 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-18 23:54:10,274 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-18 23:54:14,283 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-18 23:54:15,903 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-18 23:54:17,520 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-18 23:54:17,523 - ERROR - Error during password verification: 400: Wrong password
+2025-02-18 23:54:17,533 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-18 23:54:17,910 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-18 23:54:17,913 - ERROR - Error during password verification: 400: Wrong password
+2025-02-18 23:54:22,292 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-18 23:54:38,305 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-18 23:55:10,315 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-18 23:55:11,329 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-18 23:55:13,340 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-18 23:55:17,351 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-18 23:55:25,363 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-18 23:55:41,382 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-19 00:01:35,773 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 00:01:36,037 - INFO - Successfully connected to MongoDB
+2025-02-19 00:01:40,782 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-19 00:01:41,788 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-19 00:01:43,792 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-19 00:01:47,800 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-19 00:01:55,809 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-19 00:02:11,829 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-19 03:08:33,502 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 03:08:34,511 - INFO - Successfully connected to MongoDB
+2025-02-19 03:08:34,659 - INFO - Starting uvicorn server...
+2025-02-19 03:08:36,438 - INFO - Serving registration form
+2025-02-19 03:08:43,579 - WARNING - Transient error StatusCode.DEADLINE_EXCEEDED encountered while exporting traces to otel-collector:4317, retrying in 1s.
+2025-02-19 03:09:22,741 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 03:09:23,244 - INFO - Successfully connected to MongoDB
+2025-02-19 03:09:23,316 - INFO - Starting uvicorn server...
+2025-02-19 03:09:25,044 - INFO - Serving registration form
+2025-02-19 03:09:32,807 - WARNING - Transient error StatusCode.DEADLINE_EXCEEDED encountered while exporting traces to otel-collector:4317, retrying in 1s.
+2025-02-19 03:09:33,582 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 03:09:35,081 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 03:09:35,086 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 03:09:35,100 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 03:12:04,624 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 03:12:05,211 - INFO - Successfully connected to MongoDB
+2025-02-19 03:12:05,283 - INFO - Starting uvicorn server...
+2025-02-19 03:12:07,037 - INFO - Serving registration form
+2025-02-19 03:12:12,049 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-19 03:12:13,106 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-19 03:12:13,607 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 03:12:15,158 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-19 03:12:15,949 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 03:12:15,955 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 03:12:15,966 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 03:12:16,565 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 03:12:16,565 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 03:12:19,193 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-19 03:12:27,243 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-19 03:12:43,306 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-19 03:13:15,380 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-19 03:13:16,461 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-19 03:13:18,537 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-19 03:13:22,638 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-19 03:13:30,738 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-19 03:13:46,771 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-19 03:17:17,348 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-19 03:17:18,396 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-19 03:17:20,514 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-19 03:17:24,576 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-19 03:17:32,653 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-19 03:17:48,818 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-19 03:19:17,041 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 03:19:17,669 - INFO - Successfully connected to MongoDB
+2025-02-19 03:19:17,736 - INFO - Starting uvicorn server...
+2025-02-19 03:19:19,477 - INFO - Serving registration form
+2025-02-19 03:19:24,455 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-19 03:19:25,513 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-19 03:19:27,586 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-19 03:19:31,659 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-19 03:19:39,724 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-19 03:19:55,806 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-19 03:20:27,870 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-19 03:20:28,950 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-19 03:20:31,013 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-19 03:20:35,067 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-19 03:20:43,112 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-19 03:21:07,443 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 03:21:07,984 - INFO - Successfully connected to MongoDB
+2025-02-19 03:21:08,063 - INFO - Starting uvicorn server...
+2025-02-19 03:21:09,808 - INFO - Serving registration form
+2025-02-19 03:21:14,834 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-19 03:21:15,903 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-19 03:21:17,974 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-19 03:21:21,131 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 03:21:22,026 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-19 03:21:22,353 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 03:21:22,359 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 03:21:30,109 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-19 03:21:46,181 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-19 03:22:18,221 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-19 03:22:19,284 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-19 03:22:21,373 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-19 03:22:25,437 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-19 03:22:33,517 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-19 03:22:49,666 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-19 00:44:17,156 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 00:44:17,413 - INFO - Successfully connected to MongoDB
+2025-02-19 00:44:22,156 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-19 00:44:23,159 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-19 00:44:25,165 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-19 00:44:29,169 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-19 00:44:37,182 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-19 00:44:53,194 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-19 00:49:06,022 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 00:49:06,330 - INFO - Successfully connected to MongoDB
+2025-02-19 00:49:11,031 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 1s.
+2025-02-19 00:49:12,035 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 2s.
+2025-02-19 00:49:14,040 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 4s.
+2025-02-19 00:49:18,048 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 8s.
+2025-02-19 00:49:26,052 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 16s.
+2025-02-19 00:49:42,057 - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting traces to localhost:4317, retrying in 32s.
+2025-02-19 00:54:39,171 - INFO - Connecting to OpenTelemetry collector at: http://otel-collector:4317
+2025-02-19 00:54:39,180 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 00:54:39,467 - INFO - Successfully connected to MongoDB
+2025-02-19 00:55:11,681 - INFO - Serving registration form
+2025-02-19 00:55:23,422 - INFO - Processing registration for email: dsds@gma.com
+2025-02-19 00:55:24,420 - ERROR - Invalid login attempt: No user found with email: dsds@gma.com
+2025-02-19 00:55:24,452 - INFO - Processing registration for email: dsds@gma.com
+2025-02-19 00:55:24,601 - ERROR - Invalid login attempt: No user found with email: dsds@gma.com
+2025-02-19 01:00:43,251 - INFO - Connecting to OpenTelemetry collector at: http://otel-collector:4317
+2025-02-19 01:00:43,265 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 01:00:43,529 - INFO - Successfully connected to MongoDB
+2025-02-19 01:01:28,822 - INFO - Serving registration form
+2025-02-19 01:01:45,618 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 01:01:47,137 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 01:01:47,140 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 01:01:47,150 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 01:01:47,558 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 01:01:47,561 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 01:01:47,570 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 01:01:47,997 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 01:01:48,000 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 01:01:48,010 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 01:01:48,559 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 01:01:48,562 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 01:01:48,575 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 01:01:49,382 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 01:01:49,385 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 01:07:06,352 - INFO - Connecting to OpenTelemetry collector at: http://otel-collector:4317
+2025-02-19 01:07:06,361 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 01:07:06,641 - INFO - Successfully connected to MongoDB
+2025-02-19 01:07:23,984 - INFO - Serving registration form
+2025-02-19 01:07:32,843 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 01:07:34,295 - INFO - User registered successfully with email: ahmet@gmail.com
+2025-02-19 01:07:47,541 - INFO - Serving registration form
+2025-02-19 01:07:51,220 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 01:07:51,642 - ERROR - Invalid login attempt: Wrong password for email: ahmet@gmail.com
+2025-02-19 01:07:51,644 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 01:32:30,852 - INFO - Connecting to OpenTelemetry collector at: http://otel-collector:4317
+2025-02-19 01:32:30,859 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 01:32:31,101 - INFO - Successfully connected to MongoDB
+2025-02-19 01:32:42,670 - INFO - Serving registration form
+2025-02-19 01:32:58,207 - INFO - Processing registration for email: eduardo@gmail.com
+2025-02-19 01:32:59,540 - ERROR - Invalid login attempt: Wrong password for email: eduardo@gmail.com
+2025-02-19 01:32:59,545 - ERROR - Error during password verification: 400: Wrong password
+2025-02-19 01:33:09,654 - INFO - Processing registration for email: eduardo@gmail.com
+2025-02-19 01:33:10,115 - INFO - User registered successfully with email: eduardo@gmail.com
+2025-02-19 10:21:18,918 - INFO - Connecting to OpenTelemetry collector at: http://otel-collector:4317
+2025-02-19 10:21:18,953 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 10:21:19,318 - INFO - Successfully connected to MongoDB
+2025-02-19 10:21:19,397 - INFO - Starting uvicorn server...
+2025-02-19 10:21:21,155 - INFO - Serving registration form
+2025-02-19 10:21:28,198 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 10:21:29,034 - WARNING - Transient error StatusCode.DEADLINE_EXCEEDED encountered while exporting traces to otel-collector:4317, retrying in 1s.
+2025-02-19 10:21:29,567 - ERROR - Wrong email and password combinaton: ahmet@gmail.com
+2025-02-19 10:21:29,574 - ERROR - Error during password verification: 400: Wrong email and password combinaton.
+2025-02-19 07:25:02,165 - INFO - Connecting to OpenTelemetry collector at: http://otel-collector:4317
+2025-02-19 07:25:02,190 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 07:25:02,457 - INFO - Successfully connected to MongoDB
+2025-02-19 07:25:08,298 - INFO - Serving registration form
+2025-02-19 07:25:17,211 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 07:25:18,469 - ERROR - Wrong email and password combinaton: ahmet@gmail.com
+2025-02-19 07:25:18,474 - ERROR - Error during password verification: 400: Wrong email and password combinaton.
+2025-02-19 07:28:12,308 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 07:28:12,763 - INFO - User registered successfully with email: ahmet@gmail.com
+2025-02-19 07:28:38,252 - INFO - Serving registration form
+2025-02-19 07:28:42,779 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 07:28:43,195 - ERROR - Wrong email and password combinaton: ahmet@gmail.com
+2025-02-19 07:28:43,197 - ERROR - Error during password verification: 400: Wrong email and password combinaton.
+2025-02-19 07:30:23,772 - INFO - Connecting to OpenTelemetry collector at: http://otel-collector:4317
+2025-02-19 07:30:23,778 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 07:30:23,977 - INFO - Successfully connected to MongoDB
+2025-02-19 07:30:29,730 - INFO - Serving registration form
+2025-02-19 07:30:36,661 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 07:30:37,799 - ERROR - Wrong email and password combinaton: ahmet@gmail.com
+2025-02-19 07:30:37,802 - ERROR - Wrong email and password combinaton: ahmet@gmail.com
+2025-02-19 07:33:54,533 - INFO - Connecting to OpenTelemetry collector at: http://otel-collector:4317
+2025-02-19 07:33:54,545 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 07:33:54,835 - INFO - Successfully connected to MongoDB
+2025-02-19 07:34:00,369 - INFO - Serving registration form
+2025-02-19 07:34:06,224 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 07:34:07,499 - ERROR - Wrong email and password combinaton: ahmet@gmail.com
+2025-02-19 07:34:07,502 - ERROR - Wrong email and password combinaton: ahmet@gmail.com
+2025-02-19 07:34:23,172 - INFO - Processing registration for email: axxhmet@gmail.com
+2025-02-19 07:34:23,320 - ERROR - Invalid login attempt: No user found with email: axxhmet@gmail.com
+2025-02-19 07:35:49,233 - INFO - Connecting to OpenTelemetry collector at: http://otel-collector:4317
+2025-02-19 07:35:49,247 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 07:35:49,468 - INFO - Successfully connected to MongoDB
+2025-02-19 07:35:54,631 - INFO - Serving registration form
+2025-02-19 07:36:03,796 - INFO - Processing registration for email: ahsdmet@gmail.com
+2025-02-19 07:36:04,739 - ERROR - Invalid login attempt: No user found with email: ahsdmet@gmail.com
+2025-02-19 08:14:19,715 - INFO - Connecting to OpenTelemetry collector at: http://otel-collector:4317
+2025-02-19 08:14:19,747 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 08:14:20,213 - INFO - Successfully connected to MongoDB
+2025-02-19 08:14:32,134 - INFO - Serving registration form
+2025-02-19 08:14:45,444 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 08:14:46,922 - ERROR - Wrong email and password combinaton: ahmet@gmail.com
+2025-02-19 08:14:46,930 - ERROR - Wrong email and password combinaton: ahmet@gmail.com
+2025-02-19 08:15:11,347 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 08:15:11,975 - INFO - User registered successfully with email: ahmet@gmail.com
+2025-02-19 08:15:21,087 - INFO - Serving registration form
+2025-02-19 08:15:28,659 - INFO - Processing registration for email: eduardo@gmail.com
+2025-02-19 08:15:29,110 - INFO - User registered successfully with email: eduardo@gmail.com
+2025-02-19 08:15:38,056 - INFO - Serving registration form
+2025-02-19 08:15:49,083 - INFO - Processing registration for email: eduardoretre@gmail.com
+2025-02-19 08:15:49,225 - ERROR - Invalid login attempt: No user found with email: eduardoretre@gmail.com
+2025-02-19 10:14:33,785 - INFO - Connecting to OpenTelemetry collector at: http://otel-collector:4317
+2025-02-19 10:14:34,625 - INFO - Successfully connected to MongoDB
+2025-02-19 10:48:35,394 - INFO - Connecting to OpenTelemetry collector at: http://otel-collector:4317
+2025-02-19 10:48:35,419 - INFO - OpenTelemetry OTLP exporter configured successfully
+2025-02-19 10:48:36,108 - INFO - Successfully connected to MongoDB
+2025-02-19 10:50:26,380 - INFO - Serving registration form
+2025-02-19 10:50:33,523 - INFO - Processing registration for email: ahmet@gmail.com
+2025-02-19 10:50:35,393 - INFO - User registered successfully with email: ahmet@gmail.com
+2025-02-19 10:51:27,632 - INFO - Serving registration form
+2025-02-19 10:51:35,417 - INFO - Processing registration for email: anhbhmet@gmail.com
+2025-02-19 10:51:35,655 - ERROR - Invalid login attempt: No user found with email: anhbhmet@gmail.com
+2025-02-19 11:12:43,683 - INFO - serve_register_form completed successfully
+2025-02-19 11:12:55,083 - INFO - process_registration completed successfully
+2025-02-19 11:13:04,585 - INFO - serve_register_form completed successfully
+2025-02-19 11:13:09,423 - ERROR - process_registration failed: 400: Wrong email and password combination.
+2025-02-19 11:13:29,854 - ERROR - process_registration failed: 400: Wrong email and password combination.
+2025-02-19 11:14:18,649 - ERROR - process_registration failed: 400: Wrong email and password combination.
+2025-02-19 11:17:28,811 - INFO - serve_register_form completed successfully
+2025-02-19 11:17:33,606 - ERROR - process_registration failed: 400: Wrong email and password combination.
+2025-02-19 11:17:57,704 - INFO - process_registration completed successfully
+2025-02-19 11:17:59,229 - INFO - serve_register_form completed successfully
+2025-02-19 11:18:05,306 - ERROR - process_registration failed: 400: Wrong email and password combination.
+2025-02-19 11:21:43,626 - INFO - serve_register_form completed successfully
+2025-02-19 11:21:51,048 - ERROR - Authentication failed: Invalid password for user ahmet@gmail.com
+2025-02-19 11:21:51,049 - ERROR - process_registration failed: Wrong email and password combination.
+2025-02-19 11:21:51,562 - ERROR - Authentication failed: Invalid password for user ahmet@gmail.com
+2025-02-19 11:21:51,562 - ERROR - process_registration failed: Wrong email and password combination.
+2025-02-19 11:21:57,936 - INFO - User ahmet@gmail.com successfully authenticated
+2025-02-19 11:21:57,937 - INFO - process_registration completed successfully
